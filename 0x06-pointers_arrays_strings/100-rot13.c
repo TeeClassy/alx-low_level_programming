@@ -24,4 +24,5 @@ char *rot13(char *s)
 		}
 	}
 	return (s);
-/*at alx we are expected to do hard things*/}
+}
+/*at alx we are encouraged to do hard things*/
